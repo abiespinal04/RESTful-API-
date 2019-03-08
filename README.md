@@ -1,3 +1,3 @@
 # RESTful-API-
 
-Created a RESTful api connected to a mongodb
+A RESTful api that is connected to a mongodb.
